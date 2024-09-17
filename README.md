@@ -26,13 +26,21 @@ This repository contains a Python-based personal assistant named Friday. The ass
 
 # Technologies Used:
 pyttsx3: Text-to-speech engine for providing audio feedback.
+
 SpeechRecognition: For processing and converting voice input to text.
+
 Wikipedia: To fetch and summarize information from Wikipedia.
+
 Webbrowser: To automate web searches and open websites.
+
 pywhatkit: For playing YouTube videos.
+
 smtplib: For sending emails through Gmail's SMTP server.
+
 os: To interact with the file system and open local applications.
+
 datetime: To check and announce the current time.
+
 # How to Use:
 Clone the repository and install the required dependencies.
 
